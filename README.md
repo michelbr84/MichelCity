@@ -1,5 +1,6 @@
-# <div align="center">
-MichelCity
+<div align="center">
+## MichelCity </div>
+<div align="center">
 
   <img src="Assets/Images/screenshot.png" alt="Screenshot MichelCity" width="900"/>
 </div>
