@@ -1,7 +1,7 @@
+<div align="center">
 # MichelCity
 
-<div align="center">
-  <img src="Assets/Images/screenshot.png" alt="Screenshot MichelCity" width="600"/>
+  <img src="Assets/Images/screenshot.png" alt="Screenshot MichelCity" width="900"/>
 </div>
 
 ---
