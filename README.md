@@ -1,5 +1,5 @@
-<div align="center">
-# MichelCity
+# <div align="center">
+MichelCity
 
   <img src="Assets/Images/screenshot.png" alt="Screenshot MichelCity" width="900"/>
 </div>
