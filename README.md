@@ -94,12 +94,6 @@ MichelCity/
 
 ---
 
-## 📷 Screenshot
-
-> Adicione aqui uma imagem da sua cidade em funcionamento!
-> (Altere o caminho acima para a sua imagem real)
-
----
 
 ## 📄 Licença
 
