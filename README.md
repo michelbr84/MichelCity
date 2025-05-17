@@ -1,5 +1,5 @@
 <div align="center">
-<p style="font-size:50px;">MichelCity</p>
+MichelCity
  </div>
 <div align="center">
 
@@ -29,7 +29,6 @@ MichelCity é um jogo de simulação de cidade (city builder), inspirado em clá
 2. **Clonando o repositório**
    ```sh
    git clone https://github.com/michelbr84/MichelCity.git
-````
 
 3. **Abrindo no Unity**
 
