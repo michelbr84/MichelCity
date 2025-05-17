@@ -22,7 +22,7 @@ MichelCity é um jogo de simulação de cidade (city builder), inspirado em clá
 ## 🚀 Como rodar o projeto
 
 1. **Pré-requisitos**
-   - Unity 2021.3 ou superior (recomenda-se sempre a última LTS)
+   - Unity 6000.0.31f1 ou superior (recomenda-se sempre a última LTS)
    - .NET SDK se for compilar para mobile/standalone
    - (Opcional) Android SDK, Xcode se for exportar para mobile
 
