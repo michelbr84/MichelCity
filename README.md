@@ -1,5 +1,6 @@
 <div align="center">
-## MichelCity </div>
+<p style="font-size:50px;">MichelCity</p>
+ </div>
 <div align="center">
 
   <img src="Assets/Images/screenshot.png" alt="Screenshot MichelCity" width="900"/>
